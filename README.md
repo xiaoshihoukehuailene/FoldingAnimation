@@ -7,6 +7,8 @@ implementation 'com.github.zz:foldinganimation:1.0.0'
 
 # Usage
 
+
+
 ```
 folding_loyout.setFactor((float) 0.8);
 ```
