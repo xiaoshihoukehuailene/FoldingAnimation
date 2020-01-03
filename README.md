@@ -7,7 +7,9 @@ implementation 'com.github.zz:foldinganimation:1.0.0'
 
 ```
 folding_loyout.setFactor((float) 0.8);
+```
 
+```
 <com.zz.foldinganimation.foldlayout.FoldLayout
         android:id="@+id/folding_loyout"
        android:layout_width="match_parent"
