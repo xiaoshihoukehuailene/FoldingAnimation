@@ -3,7 +3,9 @@
 ![image](https://github.com/xiaoshihoukehuailene/FoldingAnimation/blob/master/images/test.gif)
 
 # Install
+```
 implementation 'com.github.zz:foldinganimation:1.0.0'
+```
 
 # Usage
 
