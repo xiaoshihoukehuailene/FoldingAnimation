@@ -1,6 +1,6 @@
 # FoldingAnimation
 
-image](https://github.com/xiaoshihoukehuailene/FoldingAnimation/edit/master/images/test.gif)
+![image](https://github.com/xiaoshihoukehuailene/FoldingAnimation/edit/master/images/test.gif)
 
 # Install
 implementation 'com.github.zz:foldinganimation:1.0.0'
